@@ -85,31 +85,5 @@
   <p>Project Made By Sytau</p>
 </footer>
 
-<!--  
-	<h4>Registration form</h4>
-	<form name="RegistrationForm" method="POST" action="mainController">
-		<input type="hidden" name="command" value="registrate" />
-		<table>
-			<tr><td>Name</td>
-	        	<td><input type="text" size="30" name="name"></td></tr>
-			<tr><td>Login</td>
-	        	<td><input type="text" size="30" name="login"></td></tr>
-			<tr><td>Password</td>
-	        	<td><input type="password" size="30" name="password"></td></tr>
-			<tr><td><input type="submit" name="button" value="Registrate"></td></tr>
-    	</table>
-	</form>
-	<br>
-	<form name="ReturnToPage" method="GET" action="mainController">
-		<input type="hidden" name="command" value="return_to_page" />
-		<input type="hidden" name="user" value="${user}" />
-		<input type="hidden" name="role" value="anonym" />
-		<input type="submit" value="Return"/>
-	</form>
--->	
-<!--<p>${notRegistrated} </p>  -->	
-
-
-
 </body>
 </html>
