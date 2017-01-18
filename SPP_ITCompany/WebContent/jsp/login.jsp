@@ -157,30 +157,5 @@
   <p>Project Made By Sytau</p>
 </footer>
 
-<!--  
-	<h3>Authentification</h3>
- 	<form name="loginForm" method="POST" action="mainController">
-		<input type="hidden" name="command" value="login" />
-		Login:<br/>
-		<input type="text" name="login" value=""/>
-		<br/>Password:<br/>
-		<input type="password" name="password" value=""/>
-		<br/>
-		${errorLoginPassMessage}
-		<br/>
-		${wrongAction}
-		<br/>
-		${nullPage}
-		<br/>
-		<input type="submit" value="Log in"/>
-	</form><hr/>
-	<a href="mainController?command=registration_form">Registration</a>
- 	<br/>
- 	<p>${errorRegistrationMessage}</p>
- 	<p>${registrationMessage}</p>
- 	<br/>
---> 
-
-	
 </body>
 </html>
